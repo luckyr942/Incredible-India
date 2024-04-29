@@ -1,0 +1,37 @@
+{
+  "engines": {
+    "node": "20.12.1"
+  },
+  "name": "incredible-india",
+  "version": "1.0.0",
+  "description": "\"Incredible India: Explore diverse culture and attractions. Built with HTML/CSS/JS/Node.js/Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gourav Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "ejs-mate": "^4.0.0",
+    "expess": "^0.0.1-security",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.3.1",
+    "node": "^18.20.2",
+    "nodemon": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GouravSittam/Incredible-India.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GouravSittam/Incredible-India/issues"
+  },
+  "homepage": "https://github.com/GouravSittam/Incredible-India#readme"
+}
